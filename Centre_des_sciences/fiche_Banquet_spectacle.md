@@ -60,12 +60,15 @@ Utilisation de projections visuelles, de sons et d'odeurs pour créer une expér
 ![photo](medias/mur_droit.jpg)  ![photo](medias/mur_gauche.jpg)    ![photo](medias/mur_devant.jpg)
 
 #### 72 accessoire sur la table sur la table
-![photo](medias/verre.jpg) ![photo](medias/assiete.jpg)
+![photo](medias/verre.jpg)
 
 ### Éléments nécessaires à la mise en exposition : 
 Des chaises, des lumiere pour ilumminer le lieu et des ridaux
 ![photo](medias/chaise.jpg)
 
 ![photo](medias/lumiere.jpg)
+### Ce qui vous a plu, vous a donné des idées?
+L'exposition m'a beaucoup plu parce qu'elle était vraiment immersive et interactive. Ce qui m’a marqué, c’est la manière dont la technologie est utilisée pour expliquer des concepts scientifiques complexes de manière ludique et visuelle. Par exemple, les projections à 360° étaient super impressionnantes, ça donnait l'impression d’être plongé dans un autre univers.
 
-
+### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement	
+Un aspect que je ferais différemment dans le banquet-spectacle au Centre des Sciences serait la gestion de l’odeur. La diffusion d’arômes ou de parfums censés enrichir l’expérience était presque imperceptible. Pour un tel spectacle immersif, l'odeur joue un rôle important dans la stimulation des sens. Je m'assurerais d'augmenter l'intensité de l'odeur de manière subtile mais perceptible, afin que cela contribue à l’ambiance sans devenir trop envahissant. Une meilleure gestion de cet aspect sensoriel aurait renforcé l'immersion et l'impact global de l'expérience.
