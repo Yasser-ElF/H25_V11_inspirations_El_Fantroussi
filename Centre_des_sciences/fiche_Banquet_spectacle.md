@@ -43,7 +43,22 @@ La table s'anime de plusieurs ambiances, proposant un banquet merveilleux à dé
 ![photo](medias/table_vue_gros_plan.jpg)
  
 ### Composition et technique :
-Utilisation de projections visuelles, de sons et d'odeurs pour créer une expérience multisensorielle.
- 
+Utilisation de projections visuelles, de sons et d'odeurs pour créer une expérience imemersive.
+Systèmes de projection BEUQ sur la table (maping).
+![photo](medias/projecteur_table.jpg)
+
+Systèmes de projection sur les mure qui entoure le dispositif (Projection vidéo à 360°).
+![photo](medias/projecteur_mur_droite.jpg)  ![photo](medias/projecteur_table.jpg)    ![photo](medias/projecteur_table.jpg)
+
+Trou pour d'odeure (Projection d'odeure à 360°).
+![photo](medias/table_avant.jpg)
+
+Des haut-parleurs (Projection de son à 360°).
+![photo](medias/table_avant.jpg)
+
+Des murs qui servent d'écrans où les projecteurs diffusent leur vidéo.
+![photo](medias/table_avant.jpg)
+
+Des accessoire sur la table sur la table
 ### Éléments nécessaires à la mise en exposition : 
-Systèmes de projection, dispositifs olfactifs, équipements sonores et scénographie adaptée pour une immersion totale.
+Des chaises, des lumiere pour ilumminer le lieu et des ridaux
