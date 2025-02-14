@@ -6,6 +6,7 @@ Le Banquet
 ![photo](medias/entrer_banquet.jpg)
 ### Lieu : 
 Centre des sciences de Montréal, 2, rue de la Commune Ouest, Montréal, Québec H2Y 4B2
+![photo](medias/photo_devant_du_centre.jpg)
  
 ### Type d'exposition :
 Exposition interactive et immersive sur la gastronomie
@@ -13,10 +14,12 @@ Exposition interactive et immersive sur la gastronomie
 ![photo](medias/table_vue_ensemble.jpg)
  
 ### Date de visite :
-À déterminer selon votre emploi du temps
+Le 31 javier 2025
  
 ### Titre du dispositif choisi : 
 Le spectacle multimédia du banquet
+
+![photo](medias/entrer_de_lexpo .jpg)
  
 ### Nom de la firme : 
 Cité des sciences et de l’industrie à Paris, en collaboration avec le chef Thierry Marx et l’Institut national de la recherche agronomique (INRA)
