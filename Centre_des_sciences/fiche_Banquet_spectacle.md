@@ -9,6 +9,8 @@ Centre des sciences de Montréal, 2, rue de la Commune Ouest, Montréal, Québec
  
 ### Type d'exposition :
 Exposition interactive et immersive sur la gastronomie
+
+![photo](medias/table_vue_ensemble.jpg)
  
 ### Date de visite :
 À déterminer selon votre emploi du temps
