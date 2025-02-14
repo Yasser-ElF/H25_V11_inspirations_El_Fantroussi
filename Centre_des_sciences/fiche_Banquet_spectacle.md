@@ -60,8 +60,12 @@ Utilisation de projections visuelles, de sons et d'odeurs pour créer une expér
 ![photo](medias/mur_droit.jpg)  ![photo](medias/mur_gauche.jpg)    ![photo](medias/mur_devant.jpg)
 
 #### 72 accessoire sur la table sur la table
-![photo](medias/verre.jpg)  ![photo](medias/assiete.jpg)
+![photo](medias/verre.jpg) ![photo](medias/assiete.jpg)
 
 ### Éléments nécessaires à la mise en exposition : 
 Des chaises, des lumiere pour ilumminer le lieu et des ridaux
+![photo](medias/chaise.jpg)
+
+![photo](medias/lumiere.jpg)
+
 
