@@ -10,8 +10,6 @@ Centre des sciences de Montréal, 2, rue de la Commune Ouest, Montréal, Québec
  
 ### Type d'exposition :
 Exposition interactive et immersive sur la gastronomie.
-
-![photo](medias/table_vue_ensemble.jpg)
  
 ### Date de visite :
 Le 31 javier 2025.
@@ -28,7 +26,7 @@ Cité des sciences et de l’industrie à Paris, en collaboration avec le chef T
 
  
 ### Année de réalisation : 
-Ces dispositifs immersifs ont débuté en 2021.
+Cet dispositif immersifs ont débuté en 2021.
 
 <https://th.bing.com/th/id/OIP.PkrJqgP3mzoMjrQUHqSBYQHaE7?w=258&h=180&c=7&r=0&o=5&pid=1.7>
  
