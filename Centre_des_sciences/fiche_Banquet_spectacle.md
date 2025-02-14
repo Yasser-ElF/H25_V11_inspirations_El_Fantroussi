@@ -22,10 +22,15 @@ Le spectacle multimédia du banquet
 ![photo](medias/entrer_de_lexpo.jpg)
  
 ### Nom de la firme : 
-Cité des sciences et de l’industrie à Paris, en collaboration avec le chef Thierry Marx et l’Institut national de la recherche agronomique (INRA)
+Cité des sciences et de l’industrie à Paris, en collaboration avec le chef Thierry Marx et l’Institut national de la recherche agronomique
+
+![photo](medias/generic.jpg)
+
  
 ### Année de réalisation : 
-2024
+2021
+
+<https://th.bing.com/th/id/OIP.PkrJqgP3mzoMjrQUHqSBYQHaE7?w=258&h=180&c=7&r=0&o=5&pid=1.7>
  
 ### Description du dispositif : 
 Le spectacle est une œuvre multimédia et multisensorielle inspirée d'un menu conçu par le chef Thierry Marx, pionnier de la cuisine moléculaire en France, et le chef Raphaël Haumont. Il combine images, projections, sons et odeurs pour recréer l'atmosphère d'un banquet féérique, offrant une immersion complète dans l'art culinaire.
