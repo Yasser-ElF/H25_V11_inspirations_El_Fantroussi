@@ -19,7 +19,7 @@ Le 31 javier 2025
 ### Titre du dispositif choisi : 
 Le spectacle multimédia du banquet
 
-![photo](medias/entrer_de_lexpo.jpg)
+![photo](medias/entrer de lexpo.jpg)
  
 ### Nom de la firme : 
 Cité des sciences et de l’industrie à Paris, en collaboration avec le chef Thierry Marx et l’Institut national de la recherche agronomique (INRA)
