@@ -44,21 +44,24 @@ La table s'anime de plusieurs ambiances, proposant un banquet merveilleux à dé
  
 ### Composition et technique :
 Utilisation de projections visuelles, de sons et d'odeurs pour créer une expérience imemersive.
-Systèmes de projection BEUQ sur la table (maping).
+#### 2 Systèmes de projection BEUQ sur la table (maping).
 ![photo](medias/projecteur_table.jpg)
 
-Systèmes de projection sur les mure qui entoure le dispositif (Projection vidéo à 360°).
-![photo](medias/projecteur_mur_droite.jpg)  ![photo](medias/projecteur_table.jpg)    ![photo](medias/projecteur_table.jpg)
+#### 3 Systèmes de projection sur les mure qui entoure le dispositif (Projection vidéo à 360°).
+![photo](medias/projecteur_mur_droite.jpg)  ![photo](medias/projecteur_mur_gauche.jpg)    ![photo](medias/projecteur_mur_devant.jpg)
 
-Trou pour d'odeure (Projection d'odeure à 360°).
-![photo](medias/table_avant.jpg)
+#### 36 Trou pour d'odeure (Projection d'odeure à 360°).
+![photo](medias/trou_audeur.jpg)
 
-Des haut-parleurs (Projection de son à 360°).
-![photo](medias/table_avant.jpg)
+#### 36 haut-parleurs (Projection de son à 360°).
+![photo](medias/haut-parleur.jpg)
 
-Des murs qui servent d'écrans où les projecteurs diffusent leur vidéo.
-![photo](medias/table_avant.jpg)
+#### 3 murs qui servent d'écrans où les projecteurs diffusent leur vidéo.
+![photo](medias/mur_droit.jpg)  ![photo](medias/mur_gauche.jpg)    ![photo](medias/mur_devant.jpg)
 
-Des accessoire sur la table sur la table
+#### 72 accessoire sur la table sur la table
+![photo](medias/verre.jpg)  ![photo](medias/assiete.jpg)
+
 ### Éléments nécessaires à la mise en exposition : 
 Des chaises, des lumiere pour ilumminer le lieu et des ridaux
+
