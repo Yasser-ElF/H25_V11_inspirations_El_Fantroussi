@@ -17,7 +17,7 @@ Le titre du dispositif est Luminatura.
 
 
 ### Nom des artistes : 
-
+![photo](medias/artiste_Audrey.jpg)
 
 
  
