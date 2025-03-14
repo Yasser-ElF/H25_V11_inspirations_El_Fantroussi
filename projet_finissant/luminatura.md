@@ -17,18 +17,31 @@ Le titre du dispositif est Luminatura.
 
 
 ### Nom des artistes : 
-![photo](https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/projet_finissant/media/artiste_Audrey.jpg) ![photo](https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/projet_finissant/media/artiste_Audrey.jpg)
+<table align="center">
+<tr>
+<td><img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/projet_finissant/media/artiste_Audrey.jpg"></td>
+<td><img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/projet_finissant/media/artiste_Camilia.jpg"></td>
+<td><img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/projet_finissant/media/artiste_Ihab.jpg"></td>
+<td><img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/projet_finissant/media/artiste_Justine.jpg"></td>
+<td><img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/projet_finissant/media/artiste_Prethiah.jpg"></td>
+</tr>
+<tr>
+<td>Audrey</td>
+<td>Canilia</td>
+<td>Ihab</td>
+<td>Justine</td>
+<td>Prethiah</td>
+</tr>
+</table> 
 
-
- 
 ### Année de réalisation : 
-
+L'Année de realisation est 2025
  
 ### Description du dispositif : 
+À l'entrée de l'installation, le visiteur est accueilli par la douce lumière des fleurs suspendues, ainsi que par les vignes décoratives et les lanternes qui créent une ambiance de sérénité.
 
+En touchant une des plaques, le visiteur déclenche une lumière douce et chaleureuse, accompagnée de sons apaisants inspirés de la nature. Luminatura offre ainsi une expérience sensorielle unique, où la fusion entre nature et technologie révèle notre capacité à interagir et à sublimer notre environnement. C’est une expérience immersive qui réinvente notre perception de la nature à travers l’innovation.
 
-
- 
 ### Type d'installation : 
 
  
