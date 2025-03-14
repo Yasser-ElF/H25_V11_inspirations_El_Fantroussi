@@ -17,7 +17,7 @@ Le titre du dispositif est Luminatura.
 
 
 ### Nom des artistes : 
-![photo](medias/artiste_Audrey.jpg)
+![photo](https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/projet_finissant/media/artiste_Audrey.jpg) ![photo](https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/projet_finissant/media/artiste_Audrey.jpg)
 
 
  
