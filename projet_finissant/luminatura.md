@@ -1,4 +1,4 @@
-#Visite des projets des finissants
+# Visite des projets des finissants
 
 ### Le nom de l'exposition visité:
 Le nom de lexpo est Luminatura
