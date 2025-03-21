@@ -3,6 +3,8 @@
 ### Le nom de l'exposition visité:
 Le nom de lexpo est Résonnance.
 
+![photo](projet_finissant/media/carte.jpg)
+
 ### Lieu : 
 Le collége montmorency au grand studio le local c-1712.
  
@@ -15,6 +17,7 @@ Le 25 février 2025 et le 18 mars 2025.
 ### Titre du dispositif choisi : 
 Le titre du dispositif est Luminatura.
 
+<div align="center"><img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/projet_finissant/media/Luminatura.jpg"></div>
 
 ### Nom des artistes : 
 <table align="center">
@@ -33,6 +36,8 @@ Le titre du dispositif est Luminatura.
 <td>Prethiah</td>
 </tr>
 </table> 
+
+   (Ces photo ont étaient prise du gifthub du dispositife des finissant du nom Luminatura)
 
 ### Année de réalisation : 
 L'Année de realisation est 2025
