@@ -3,7 +3,7 @@
 ### Le nom de l'exposition visité:
 Le nom de lexpo est Résonnance.
 
-![photo](projet_finissant/media/carte.jpg)
+![photo](media/carte.jpg)
 
 ### Lieu : 
 Le collége montmorency au grand studio le local c-1712.
@@ -17,7 +17,7 @@ Le 25 février 2025 et le 18 mars 2025.
 ### Titre du dispositif choisi : 
 Le titre du dispositif est Luminatura.
 
-<div align="center"><img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/projet_finissant/media/Luminatura.jpg"></div>
+![photo](media/Luminatura.jpg)
 
 ### Nom des artistes : 
 <table align="center">
@@ -48,21 +48,32 @@ L'Année de realisation est 2025
 En touchant une des plaques, le visiteur déclenche une lumière douce et chaleureuse, accompagnée de sons apaisants inspirés de la nature. Luminatura offre ainsi une expérience sensorielle unique, où la fusion entre nature et technologie révèle notre capacité à interagir et à sublimer notre environnement. C’est une expérience immersive qui réinvente notre perception de la nature à travers l’innovation.
 
 ### Type d'installation : 
-
+Le type d'instalation de ce dispositife est une instalation interractive.
  
 ### Mise en espace : 
 
  
 ### Composition et technique :
+L'utilisation de projections visuelles, de sons et d'interactivité pour créer une expérience immersive.
+#### 2 Systéme de projection EPISON
+Un sur le mur de devant.
+![photo](media/projecteure.jpg)
 
+Et l'autre sur le sol.
+![photo](media/projecteure_sur_le_sol.jpg)
+![photo](media/sol.jpg)
+#### Des lanternes et des fleures qui contiennent des lampe DMX et derieiere eu la difusion que le projecteure sur le mur se trouve.
+![photo](media/decoration_luminuse.jpg)
 
+#### Des fils et des rallanges pour connecter les lampes, les ordits et les projecteures
+![photo](media/rallange.jpg)
 
+#### Un ordit pour diffuser le son.
+![photo](media/ordi_son.jpg)
 
-
-
-
-
-
+#### 
+![photo](media/projecteure.jpg)
+![photo](media/projecteure.jpg)
 
 ### Éléments nécessaires à la mise en exposition : 
 
