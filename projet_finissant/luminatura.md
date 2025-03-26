@@ -45,7 +45,7 @@ L'Année de realisation est 2025
 ### Description du dispositif : 
 À l'entrée de l'installation, le visiteur est accueilli par la douce lumière des fleurs suspendues, ainsi que par les vignes décoratives et les lanternes qui créent une ambiance de sérénité.
 
-En touchant une des plaques, le visiteur déclenche une lumière douce et chaleureuse, accompagnée de sons apaisants inspirés de la nature. Luminatura offre ainsi une expérience sensorielle unique, où la fusion entre nature et technologie révèle notre capacité à interagir et à sublimer notre environnement. C’est une expérience immersive qui réinvente notre perception de la nature à travers l’innovation.
+En touchant une des plaques, le visiteur déclenche une lumière douce et chaleureuse, accompagnée de sons apaisants inspirés de la nature.Luminatura offre ainsi une expérience sensorielle unique, où la fusion entre nature et technologie révèle notre capacité à interagir et à sublimer notre environnement. C’est une expérience immersive qui réinvente notre perception de la nature à travers l’innovation.
 
 ### Type d'installation : 
 Le type d'instalation de ce dispositife est une instalation interractive.
@@ -58,7 +58,7 @@ L'utilisation de projections visuelles, de sons et d'interactivité pour créer 
 #### 1.2 Systéme de projection EPISON
 1.2.1 Un sur le mur de devant.
 ![photo](media/projecteure.jpg)
-
+![photo](media/mur_devant.jpg)
 1.2.2 Et l'autre sur le sol.
 ![photo](media/projecteure_sur_le_sol.jpg)
 ![photo](media/sol.jpg)
@@ -71,15 +71,26 @@ L'utilisation de projections visuelles, de sons et d'interactivité pour créer 
 #### 4.Un ordit pour diffuser le son.
 ![photo](media/ordi_son.jpg)
 
-#### 
-![photo](media/projecteure.jpg)
-![photo](media/projecteure.jpg)
+#### 5. Des haut-parleures
+![photo](media/haut_parleur.jpg)
+
+#### 6. Des plaque metalique interractive grace a un peit ordit atacher on arriere
+![photo](media/plaque_capteure.jpg)
+![photo](media/petit_ordi.jpg)
 
 ### Éléments nécessaires à la mise en exposition : 
 
+#### 1. Des rallanges attacher au ordit et au capteures
+![photo](media/rallange.jpg)
 
+#### 2. des prise pour attacher les rallenges
+![photo](media/prise.jpg)
+
+#### 3. Des files  cacher par des plantes en plastique pour les camoufler qui branche tout le materielle
+![photo](media/file.jpg)
 
 ### Ce qui vous a plu, vous a donné des idées?
-
+L'idée de créer une expérience immersive et sensorielle à travers l'interaction entre la lumière, le son et les éléments naturels m'a particulièrement plu. L'utilisation des plantes suspendues et des lanternes crée une atmosphère apaisante et harmonieuse. Le concept d'utiliser des plaques interactives pour déclencher une réponse sensorielle est une idée intéressante que je pourrais explorer davantage dans mes propres créations. L'innovation technologique qui s'allie à la nature a également suscité des idées sur la manière de réinventer les environnements avec de nouveaux matériaux et technologies.
 
 ### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement	
+Je pense que le recours aux câbles visibles et à l'utilisation de rallonges, bien qu'elles soient nécessaires, pourrait être amélioré pour éviter une certaine surcharge visuelle. Disposer les câbles de manière plus discrète ou les intégrer dans des éléments de design naturels, comme des racines ou des structures végétales, permettrait d'améliorer l'esthétique générale et de rendre l'expérience encore plus fluide. De plus, l'usage des projecteurs pourrait être mieux intégré dans l'espace, en jouant sur les ombres et en minimisant l'équipement visible pour renforcer l'aspect magique et mystérieux de l'installation.
