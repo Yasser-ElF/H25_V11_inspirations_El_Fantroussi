@@ -55,20 +55,20 @@ Le type d'instalation de ce dispositife est une instalation interractive.
  
 ### Composition et technique :
 L'utilisation de projections visuelles, de sons et d'interactivité pour créer une expérience immersive.
-#### 2 Systéme de projection EPISON
-Un sur le mur de devant.
+#### 1.2 Systéme de projection EPISON
+1.2.1 Un sur le mur de devant.
 ![photo](media/projecteure.jpg)
 
-Et l'autre sur le sol.
+1.2.2 Et l'autre sur le sol.
 ![photo](media/projecteure_sur_le_sol.jpg)
 ![photo](media/sol.jpg)
-#### Des lanternes et des fleures qui contiennent des lampe DMX et derieiere eu la difusion que le projecteure sur le mur se trouve.
+#### 2. Des lanternes et des fleures qui contiennent des lampe DMX et derieiere eu la difusion que le projecteure sur le mur se trouve.
 ![photo](media/decoration_luminuse.jpg)
 
-#### Des fils et des rallanges pour connecter les lampes, les ordits et les projecteures
+#### 3.Des fils et des rallanges pour connecter les lampes, les ordits et les projecteures
 ![photo](media/rallange.jpg)
 
-#### Un ordit pour diffuser le son.
+#### 4.Un ordit pour diffuser le son.
 ![photo](media/ordi_son.jpg)
 
 #### 
