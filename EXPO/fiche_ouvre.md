@@ -57,7 +57,7 @@ Instagram
 
 ---
 
-<h3 align="center">📸 Aperçu des composantes techniques</h3>
+<h3 align="center"> Aperçu des composantes techniques</h3>
 
 <table align="center">
   <tr>
