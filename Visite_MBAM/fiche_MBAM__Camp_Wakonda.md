@@ -22,22 +22,32 @@ Résumé descriptif : Camp Wakonda est une installation immersive qui combine vi
 
 Type d’installation : Immersive
 
-Photos / croquis : 
-
-
 ## COMPOSANTES & TECHNIQUES
 Matériaux utilisés : Bois torréfié, balsa, branches d’arbre, fibre et film de polyester, tôle d’aluminium, modèles réduits, peinture acrylique, polymère synthétique
-
+  
 Techniques : Animation image par image, projection numérique, installation sculpturale
+<table align="center">
+<tr>
+<td><img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/Visite_MBAM/medias/miniprojecteure_haut_parleur%20.jpg"></td>
+<td><img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/Visite_MBAM/medias/maison_int%C3%A9rieure.jpg"></td>
+<td><img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/Visite_MBAM/medias/maison_int%C3%A9rieure_2emetage.jpg"></td>
+<td><img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/Visite_MBAM/medias/projecteur_sol.jpg"></td>
+<td><img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/Visite_MBAM/medias/vue_adroite.jpg"></td>
+</tr>
+</table> 
+
+deux mini-projecteurs à l’intérieur de chacune des deux maisons, chacun avec un haut-parleur intégré. Un mini-projecteur est placé en bas à droite de l’œuvre, un autre dans le coin inférieur gauche, ainsi qu’un projecteur standard qui projette sur l’ensemble de l’installation. On retrouve aussi des structures en bois, des sculptures de voitures et du faux gazon.
 
 Interactions : Les visiteurs peuvent interagir avec l'installation en manipulant certains objets et en observant les animations qui réagissent à ces interactions.​
 Espace Transition
 
 ## MISE EN ESPACE
 Description de l’espace de présentation : L'œuvre est installée dans une salle sombre avec un éclairage tamisé, créant une atmosphère propice à l'immersion. Les objets sont disposés de manière à guider le spectateur à travers le camp miniature.
-
-
-
+<table align="center">
+<tr>
+<td><img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/Visite_MBAM/medias/miniprojecteure_haut_parleur%20.jpg"></td>
+</tr>
+</table> 
 Éléments mis en place par le musée : Éclairage directionnel, câblage discret, supports pour les écrans et projecteurs, dispositifs de sécurité pour les objets interactifs.​
 
 ## EXPÉRIENCE VÉCUE
