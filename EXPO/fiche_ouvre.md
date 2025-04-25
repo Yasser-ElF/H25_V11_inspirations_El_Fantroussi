@@ -1,6 +1,3 @@
- ![photo](medias/vue_ensemble_ouevre.jpg)
-  <i>Image tirée du compte Instagram d'Espace pour la vie</i>
-
 
 <h1 align="center">Plancton cosmique</h1>
 
@@ -27,11 +24,10 @@
 
 ##  Vidéos de l'exposition
 
-**Cite 1:**[Des photos des instalation immersive à l'intérieure de la biosphere](https://www.instagram.com/p/C8HdmJSgoh9/?img_index=3).
+**Lien 1:**[Des photos des instalation immersive à l'intérieure de la biosphere](https://www.instagram.com/p/C8HdmJSgoh9/?img_index=3).
 
 **Cite 2:**[Présentation par Les Macronautes](https://www.instagram.com/macronautes/reel/C7wQ4UbAKgP/).
 
-Instagram
 
 
 *Sources : Instagram*
@@ -56,26 +52,41 @@ Instagram
 
 ---
 
-<h3 align="center">📸 Aperçu des composantes techniques</h3>
+<h3 align="center"> Aperçu des composantes techniques</h3>
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://www.zsprojector.com/uploads/allimg/2109/1-2109291KQH20.jpg" alt="Projecteurs en action" width="300"><br>
+      <img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/EXPO/medias/projection_en_action.jpg" alt="Projecteurs en action" width="300"><br>
       <i>Projecteurs en action</i>
     </td>
     <td align="center">
-      <img src="https://www.macronautes.com/uploads/1/2/3/4/12345678/plancton-cosmique-eclairage.jpg" alt="Système d'éclairage dynamique" width="300"><br>
+      <img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/EXPO/medias/systeme_lumi%C3%A9re.jpg" alt="Système d'éclairage dynamique" width="300"><br>
       <i>Système d'éclairage dynamique</i>
     </td>
     <td align="center">
-      <img src="https://www.macronautes.com/uploads/1/2/3/4/12345678/plancton-cosmique-son.jpg" alt="Système sonore immersif" width="300"><br>
+      <img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/EXPO/medias/system_sonore.jpg" width="300"><br>
       <i>Système sonore immersif</i>
     </td>
   </tr>
 </table>
 
+*Sources:*
+
+*Page officielle de l'exposition sur le site des Macronautes :*
+
+https://macronautes.com/fr/explorations/plancton-cosmique
+
+*Page de l'exposition sur le site de Musées Montréal :*
+
+https://museesmontreal.org/fr/expositions-et-evenements/expositions/plancton-cosmique
+
+*Page de l'exposition sur le site de la Biosphère – Espace pour la vie :*
+
+https://calendrier.espacepourlavie.ca/plancton-cosmique
+
 ---
+
 
 ## Éléments nécessaires à la mise en exposition
 
