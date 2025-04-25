@@ -6,8 +6,7 @@ Lieu de mise en exposition : Pavillon Jean-Noël Desmarais, niveau S2, Musée de
 
 Type d’exposition : Temporaire
 
-Date de votre visite : 
-
+Date de votre visite : 4 avril 2025
 
 ## ŒUVRE CHOISIE
 Titre de l’œuvre : Camp Wakonda
@@ -16,8 +15,7 @@ Nom de l’artiste : Graeme Patterson
 
 Année de réalisation : 2013
 
-Cartel de l’œuvre : 
-YMCA Camp Wakonda
+Cartel de l’œuvre : YMCA Camp Wakonda
 
 ## DESCRIPTION DE L’ŒUVRE
 Résumé descriptif : Camp Wakonda est une installation immersive qui combine vidéo, son, lumière et objets sculptés pour recréer un camp d'été miniature. L'œuvre invite les spectateurs à explorer des thèmes de nostalgie et de résilience à travers des animations et des objets interactifs.
@@ -34,13 +32,11 @@ Techniques : Animation image par image, projection numérique, installation scul
 
 Interactions : Les visiteurs peuvent interagir avec l'installation en manipulant certains objets et en observant les animations qui réagissent à ces interactions.​
 Espace Transition
-Index
-mnbaq.org
 
 ## MISE EN ESPACE
 Description de l’espace de présentation : L'œuvre est installée dans une salle sombre avec un éclairage tamisé, créant une atmosphère propice à l'immersion. Les objets sont disposés de manière à guider le spectateur à travers le camp miniature.
 
-Croquis de la mise en espace :
+
 
 Éléments mis en place par le musée : Éclairage directionnel, câblage discret, supports pour les écrans et projecteurs, dispositifs de sécurité pour les objets interactifs.​
 
