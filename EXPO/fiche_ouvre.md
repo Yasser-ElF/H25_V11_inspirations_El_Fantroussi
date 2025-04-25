@@ -28,9 +28,9 @@
 
 ##  Vidéos de l'exposition
 
-**Video 1:**[Aperçu de l'installation immersive](https://www.instagram.com/reel/exemple1/).
+**Video 1:**[Aperçu de l'installation immersive](https://www.instagram.com/p/C8HdmJSgoh9/?img_index=3).
 
-**Video 2:**[Présentation par Les Macronautes](https://www.instagram.com/reel/exemple2/).
+**Video 2:**[Présentation par Les Macronautes](https://www.instagram.com/macronautes/reel/C7wQ4UbAKgP/).
 
 Instagram
 
