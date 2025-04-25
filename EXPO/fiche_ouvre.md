@@ -28,9 +28,9 @@
 
 ##  Vidéos de l'exposition
 
-**Video 1:**[Aperçu de l'installation immersive](https://www.instagram.com/p/C8HdmJSgoh9/?img_index=3).
+**Cite 1:**[Des photos des instalation immersive à l'intérieure de la biosphere](https://www.instagram.com/p/C8HdmJSgoh9/?img_index=3).
 
-**Video 2:**[Présentation par Les Macronautes](https://www.instagram.com/macronautes/reel/C7wQ4UbAKgP/).
+**Cite 2:**[Présentation par Les Macronautes](https://www.instagram.com/macronautes/reel/C7wQ4UbAKgP/).
 
 Instagram
 
@@ -47,8 +47,6 @@ Instagram
 - Systèmes d'éclairage dynamique synchronisés avec les projections  
 - Système sonore immersif diffusant une ambiance aquatique et cosmique  
 - Structures et surfaces de projection adaptées à l'architecture de la Biosphère
-
-*Source : Instagram*
 
 ### **Techniques :**
 
@@ -90,6 +88,4 @@ Visiter *Plancton cosmique* est une expérience sensorielle et contemplative qui
 
 ##  Ce qui m'a plu
 
-Ce qui m'a particulièrement marqué dans *Plancton cosmique*, c'est la manière dont l'exposition réussit à créer un pont entre science et art. L'utilisation de technologies immersives permet de rendre accessible et captivant un sujet complexe comme le plancton. De plus, la mise en parallèle avec le cosmos offre une perspective nouvelle et poétique sur notre environnement.  
-C'est une expérience enrichissante qui stimule à la fois les sens et l'esprit.
-
+Ce qui m'a particulièrement marqué dans *Plancton cosmique*, c'est la manière dont l'exposition réussit à créer un lien entre science et art. L'utilisation de technologies immersives permet de rendre accessible et captivant un sujet complexe comme le plancton. De plus, la mise en parallèle avec le cosmos offre une perspective nouvelle sur notre environnement. C'est une expérience enrichissante qui stimule à la fois les sens et l'esprit.
