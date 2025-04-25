@@ -45,10 +45,16 @@ Espace Transition
 Description de l’espace de présentation : L'œuvre est installée dans une salle sombre avec un éclairage tamisé, créant une atmosphère propice à l'immersion. Les objets sont disposés de manière à guider le spectateur à travers le camp miniature.
 <table align="center">
 <tr>
-<td><img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/Visite_MBAM/medias/miniprojecteure_haut_parleur%20.jpg"></td>
+<td><img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/Visite_MBAM/medias/vue_ensemble.jpg" width="311px" height="415px"></td>
 </tr>
 </table> 
-Éléments mis en place par le musée : Éclairage directionnel, câblage discret, supports pour les écrans et projecteurs, dispositifs de sécurité pour les objets interactifs.​
+Éléments mis en place par le musée : Éclairage directionnel, câblage discret, supports pour les projecteurs.
+<table align="center">
+<tr>
+<td><img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/Visite_MBAM/medias/lumi%C3%A9re_plafon.jpg"></td>
+<td><img src="https://github.com/Yasser-ElF/H25_V11_inspirations_El_Fantroussi/blob/main/Visite_MBAM/medias/cables_prises.jpg"></td>
+</tr>
+</table> 
 
 ## EXPÉRIENCE VÉCUE
 Posture du visiteur / gestes de l’interacteur : Les visiteurs sont invités à se déplacer lentement autour de l'installation, à observer attentivement les détails et à interagir avec certains éléments pour déclencher des animations.
