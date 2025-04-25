@@ -57,7 +57,7 @@ Description de l’espace de présentation : L'œuvre est installée dans une sa
 </table> 
 
 ## EXPÉRIENCE VÉCUE
-Posture du visiteur / gestes de l’interacteur : Les visiteurs sont invités à se déplacer lentement autour de l'installation, à observer attentivement les détails et à interagir avec certains éléments pour déclencher des animations.
+Posture du visiteur / gestes de l’interacteur : Les visiteurs sont invités à se déplacer lentement autour de l'installation et à observer attentivement les détails.
 
 Réactions ou ambiances autour : Les visiteurs semblent captivés par la richesse des détails et l'atmosphère immersive de l'œuvre.​
 
