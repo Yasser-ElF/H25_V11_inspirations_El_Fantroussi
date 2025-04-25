@@ -1,7 +1,6 @@
-<div align="center">
-  <img src="https://www.instagram.com/p/C8HdmJSgoh9/media/?size=l" alt="Plancton cosmique - Vue immersive">
+ ![photo](medias/vue_ensemble_ouevre.jpg)
   <i>Image tirée du compte Instagram d'Espace pour la vie</i>
-</div>
+
 
 <h1 align="center">Plancton cosmique</h1>
 
@@ -57,13 +56,22 @@ Instagram
 
 ---
 
-<h3 align="center"> Aperçu des composantes techniques</h3>
+<h3 align="center">📸 Aperçu des composantes techniques</h3>
 
 <table align="center">
   <tr>
-    <td><img src="https://www.instagram.com/p/C8HdmJSgoh9/media/?size=l" alt="Projecteurs en action"></td>
-    <td><img src="https://www.instagram.com/p/C8HdmJSgoh9/media/?size=l" alt="Système d'éclairage dynamique"></td>
-    <td><img src="https://www.instagram.com/p/C8HdmJSgoh9/media/?size=l" alt="Système sonore immersif"></td>
+    <td align="center">
+      <img src="https://www.zsprojector.com/uploads/allimg/2109/1-2109291KQH20.jpg" alt="Projecteurs en action" width="300"><br>
+      <i>Projecteurs en action</i>
+    </td>
+    <td align="center">
+      <img src="https://www.macronautes.com/uploads/1/2/3/4/12345678/plancton-cosmique-eclairage.jpg" alt="Système d'éclairage dynamique" width="300"><br>
+      <i>Système d'éclairage dynamique</i>
+    </td>
+    <td align="center">
+      <img src="https://www.macronautes.com/uploads/1/2/3/4/12345678/plancton-cosmique-son.jpg" alt="Système sonore immersif" width="300"><br>
+      <i>Système sonore immersif</i>
+    </td>
   </tr>
 </table>
 
